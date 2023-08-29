@@ -1,7 +1,7 @@
 <img width="1000" align="right" src="https://media.istockphoto.com/id/1419766496/photo/abstract-concepts-of-cybersecurity-technology-and-digital-data-protection-protect-internet.webp?b=1&s=170667a&w=0&k=20&c=ymHzOpQBTrldJ5egITZZAgfc7PGmxZ2bP83eo-KjARM="/>
 <h1 align="center">Hi 👋, I'm Amarnath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img width="250" align="right" src="https://lh3.googleusercontent.com/a/AAcHTtfWruArHmnh08OLAb1Su3AlDfMV28TLpiq_voT3VzGjRQ=s288-c-no"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandal097&label=Profile%20views&color=0e75b6&style=flat" alt="mandal097" /> </p>
 
 - 🌱 I’m currently learning **NextJs**
